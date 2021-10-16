@@ -4,7 +4,7 @@
 
 - git中暂存区（stage）和版本仓库（Repository）的关系
 
-  ![add和commit命令](D:\software\git\firstTest\image\0.jpg)
+  ![add和commit命令](.\image\0.jpg)
 
 - 添加文件到
 
@@ -91,10 +91,9 @@
 - 添加远程库并命名为origin
 
   ```shell
-  git remote add origin git@github.com:shih15/File-Transfer.g
-  it
+  git remote add origin git@github.com:shih15/File-Transfer.git
   ```
-
+  
 - 将当前的master分支推送到远程库中
 
   ```shell
